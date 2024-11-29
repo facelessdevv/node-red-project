@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "node_modules/.bin/node-red"
+    "start": "npx node-red -p $PORT"
   },
   "keywords": [],
   "author": "",
